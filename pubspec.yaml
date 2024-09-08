@@ -17,9 +17,6 @@ dependencies:
   retrofit: ^4.0.1
   json_annotation: ^4.8.1
 
-  # Dependancy Injection
-  get_it: ^7.7.0
-
   # State management
   flutter_bloc: ^8.1.6
 
@@ -28,9 +25,6 @@ dependencies:
 
   # Responsive
   device_preview: ^1.2.0
-
-  # SVG image
-  flutter_svg: ^1.1.6
 
   # For icons
   font_awesome_flutter: ^10.7.0
